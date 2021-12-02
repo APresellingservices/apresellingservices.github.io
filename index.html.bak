@@ -1,0 +1,174 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>AP Reselling Services</title>
+    <link href="css/hacker.css" rel="stylesheet">
+
+    <style>
+    .tall-row {
+        margin-top: 40px;
+    }
+    .modal {
+        position: relative;
+        top: auto;
+        right: auto;
+        left: auto;
+        bottom: auto;
+        z-index: 1;
+        display: block;
+    }
+    </style>
+</head>
+
+<body>
+
+    <a href="https://discord.gg/wxvwrTacDa"><img style="position: absolute; top: 0; left: 0; border: 0;z-index:1001;" " alt="Best Reselling Services"></a>
+
+    <nav class="navbar navbar-default navbar-static-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="#">AP Reselling Services</a>
+            </div>
+            <div id="navbar" class="navbar-collapse collapse">
+                <ul class="nav navbar-nav navbar-right">
+                    <li class="dropdown">
+                        
+                        <ul class="dropdown-menu" role="menu">
+                            <li><a href="#">Ooh a link</a></li>
+                            <li><a href="#">Two links?! Oh boy</a></li>
+                            <li><a href="#">Now you're being ridiculous</a></li>
+                            <li class="divider"></li>
+                            <li class="dropdown-header">Much Wow</li>
+                            <li><a href="#">So link</a></li>
+                            <li><a href="#">Many internet</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="https://discord.gg/wxvwrTacDa" target="_blank">Discord</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+
+    <div class="container">
+
+        <!-- Jumbotron -->
+        <div class="jumbotron">
+            <h1>AP Reselling Services</h1>
+            <p>A Bootstrap theme for 31337 H4X0RS. Inspired by the classic green on black terminal style, this bootstrap theme will make your website 1337.</p>
+            <p>To hack around with the source or contribute, check out the project on Github</p>
+            <p>
+                <a class="btn btn-lg btn-primary" href="https://discord.gg/wxvwrTacDa" role="button">Join Discord »</a>
+              
+            </p>
+        </div>
+
+        <!-- Typography -->
+        <div class="row tall-row">
+            <div class="col-lg-12">
+                <h1>Information</h1>
+                <hr>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-4">
+                <h1>         </h1>
+                <h2>         </h2>
+                <h3>         </h3>
+                <h4>         </h4>
+                <h5>         </h5>
+                <h6>         </h6>
+            </div>
+            <div class="col-md-4">
+                <h2>Common questions</h2>
+                <p>If you have any questions, open a ticket on <a href="https://discord.gg/wxvwrTacDa">Discord!</a></p>
+                
+            </div>
+            <div class="col-md-4">
+                <h2></h2>
+                <p class="text-primary"></p>
+                <p class="text-warning"></p>
+                <p class="text-danger"></p>
+                <p class="text-success"></p>
+                <p class="text-info"></p>
+            </div>
+        </div>
+
+        <!-- Buttons -->
+        <div class="row tall-row">
+            <div class="col-lg-12">
+                <h1>Purchase</h1>
+                <hr>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-6">
+                <a href="https://discord.gg/wxvwrTacDa" class="btn btn-default">Buy Here</a>
+                
+            </div>
+            <div class="col-sm-6">
+            </div>
+        </div>
+
+
+ 
+ 
+       
+        <!-- Panels -->
+        <div class="row tall-row">
+            <div class="col-lg-12">
+                <h1>Prices</h1>
+                <hr>
+            </div>
+        </div>
+      
+
+                <div class="panel panel-default">
+                    <div class="panel-body">LEGENDWARE</div>
+                    <div class="panel-footer">
+					
+1 MONTH = 7.00€ 3 MONTHS = 14.00€ LIFETIME = 29.50€
+
+					</div>
+					
+					<div class="panel panel-default">
+                    <div class="panel-body">ONETAP</div>
+                    <div class="panel-footer">
+					
+1 MONTH = 22.00€ 3 MONTHS = 51.00€ 1Y/12 MONTHS = 153.00€
+
+					</div>
+					<div class="panel panel-default">
+                    <div class="panel-body">NEVERLOSE</div>
+                    <div class="panel-footer">
+					
+1 MONTH = 22.00€ 3 MONTHS = 53.00€ 6 MONTHS = 92.00€ 1Y/12 MONTHS = 153.00€
+
+					</div>
+					<div class="panel panel-default">
+                    <div class="panel-body">AIMWARE</div>
+                    <div class="panel-footer">
+					
+1 MONTH = 26.50€ 3 MONTHS = 31.50€ 1Y/12 MONTHS = 756.50€ LIFETIME = 126.50€
+
+					</div>
+                </div>
+            </div>
+            <div class="col-md-4">
+        
+
+</body>
+</html>
